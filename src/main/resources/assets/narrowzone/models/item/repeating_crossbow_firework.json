@@ -1,0 +1,7 @@
+{
+  "parent": "narrowzone:item/repeating_crossbow",
+  "textures": {
+    "layer0": "narrowzone:item/repeating_crossbow_firework",
+    "layer1": "narrowzone:item/repeating_crossbow_ammo_1"
+  }
+}
