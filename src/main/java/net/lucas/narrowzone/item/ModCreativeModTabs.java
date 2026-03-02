@@ -16,7 +16,7 @@ public class ModCreativeModTabs {
 
     //cria uma aba nova no criativo
     public static final RegistryObject<CreativeModeTab> NARROW_TAB = CREATIVE_MODE_TABS.register("narrow_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.REPEATING_CROSSBOW.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.LONG_BOW.get()))
                     .title(Component.translatable("creativetab.narrow_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SHORT_BOW.get());
