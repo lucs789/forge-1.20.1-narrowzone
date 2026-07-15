@@ -4,5 +4,11 @@
   "item.narrowzone.light_crossbow": "Light Crossbow",
   "item.narrowzone.repeating_crossbow": "Repeating Crossbow",
 
+  "enchantment.narrowzone.steady_draw": "Steady Draw",
+  "enchantment.narrowzone.quickstring": "Quickstring",
+  "enchantment.narrowzone.deadeye": "Deadeye",
+  "enchantment.narrowzone.longshot": "Longshot",
+  "enchantment.narrowzone.chain_bolt": "Chain Bolt",
+
   "creativetab.narrow_tab": "Narrow Zone"
 }
