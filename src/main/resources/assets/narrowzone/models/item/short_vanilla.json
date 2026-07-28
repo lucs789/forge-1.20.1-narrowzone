@@ -1,0 +1,6 @@
+{
+  "parent": "narrowzone:item/short_bow",
+  "textures": {
+    "layer0": "narrowzone:item/short_vanilla"
+  }
+}

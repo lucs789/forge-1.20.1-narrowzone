@@ -1,0 +1,6 @@
+{
+  "parent": "narrowzone:item/repeating_crossbow",
+  "textures": {
+    "layer0": "narrowzone:item/repeating_crossbow_charging_2"
+  }
+}

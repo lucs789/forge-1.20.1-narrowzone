@@ -1,0 +1,6 @@
+{
+    "parent": "narrowzone:item/light_crossbow",
+    "textures": {
+        "layer0": "narrowzone:item/light_crossbow_arrow"
+    }
+}
