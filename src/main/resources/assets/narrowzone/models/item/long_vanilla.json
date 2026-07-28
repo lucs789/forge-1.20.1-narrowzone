@@ -1,6 +1,0 @@
-{
-  "parent": "narrowzone:item/long_bow",
-  "textures": {
-    "layer0": "narrowzone:item/long_vanilla"
-  }
-}
